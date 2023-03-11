@@ -1,3 +1,5 @@
-# pwskills_assignments
+# pwskills_assignment1
 
-Assignments for Data Science course PW Skills.
+Assignment-1 for pw skills data science course
+
+29th Jan 2023 Python

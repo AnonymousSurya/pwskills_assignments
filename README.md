@@ -1,3 +1,3 @@
-# pwskills_assignments
+# pwskills_assignment for statistics
 
-Assignments for Data Science course PW Skills.
+Here are the assignments of statistics section for PW-Skills Data Science course

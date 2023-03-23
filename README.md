@@ -1,3 +1,3 @@
-# pwskills_assignments
+# pwskills_assignment for Machine Learning
 
-Assignments for Data Science course PW Skills.
+Here are the assignments of Machine Learning section for PW-Skills Data Science course
